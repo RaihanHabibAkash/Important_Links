@@ -25,3 +25,5 @@
 12. Movies link, Bangla movie and novel also avaiable => https://moviebox.ph/ 
 
 13. Helping in DSA by animation => https://csvistool.com/ , https://visualgo.net/en
+
+14. Code memory allocation visualizer => https://pythontutor.com/visualize.html#mode=display
